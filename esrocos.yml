@@ -1,0 +1,10 @@
+ASNACN_DIR: dataview/
+PROJECT_NAME: plex-mini_demo
+deps:
+- types/base: ''
+- types/base_support: ''
+- plex/teleops: ''
+- plex/odometry: ''
+- gui/vizkit: ''
+- gui/vizkit3d: ''
+- gui/vizki3d_taste: ''

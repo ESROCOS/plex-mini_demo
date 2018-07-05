@@ -1,0 +1,1 @@
+<package><depend package="types/base" /><depend package="types/base_support" /><depend package="plex/teleops" /><depend package="plex/odometry" /><depend package="gui/vizkit" /><depend package="gui/vizkit3d" /><depend package="gui/vizki3d_taste" /></package>
